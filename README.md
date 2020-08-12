@@ -10,15 +10,20 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Survey from Your RAs!!](#survey-from-your-ras)
 - [Your RAs](#your-ras)
 - [RA On-Call](#ra-on-call)
 - [UDH Slack](#udh-slack)
 - [Facilities Issues?](#facilities-issues)
 - [Moore Hall Protocols](#moore-hall-protocols)
-- [Useful Links:](#useful-links)
+- [Useful Links](#useful-links)
 - [Got questions?](#got-questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Survey from Your RAs!!
+
+Please do take a quick minute and fill out a survey using [this link](https://forms.gle/UEV6CSSmvVDCkqeg9)! Let us know if you have questions!
 
 ## Your RAs
 
