@@ -12,11 +12,17 @@
 
 - [Survey from Your RAs!!](#survey-from-your-ras)
 - [Your RAs](#your-ras)
+    - [Moore Hall](#moore-hall)
+    - [Smith hall](#smith-hall)
+    - [Daniel House](#daniel-house)
 - [RA On-Call](#ra-on-call)
+    - [Hillcrest Houses (Moore and Smith)](#hillcrest-houses-moore-and-smith)
+    - [Daniel House](#daniel-house-1)
 - [UDH Slack](#udh-slack)
+- [Fire Safety Regulations](#fire-safety-regulations)
 - [Facilities Issues?](#facilities-issues)
 - [Moore Hall Protocols](#moore-hall-protocols)
-- [Useful Links](#useful-links)
+- [Useful Links:](#useful-links)
 - [Got questions?](#got-questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
