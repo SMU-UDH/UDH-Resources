@@ -27,22 +27,40 @@ Please do take a quick minute and fill out a survey using [this link](https://fo
 
 ## Your RAs
 
+#### Moore Hall
 - Ground/First Floor: Stephanie Dodgen
 - First/Second Floor: Kevin Wang
 - Third Floor: Kalkidan Alemu
 
+#### Smith hall
+- First Floor: Tyne Dickson
+- Third Floor: Collin Higgins
+
+#### Daniel House
+- Lo McElroy
+- Peter Wetherbee
+
 ## RA On-Call
+
+#### Hillcrest Houses (Moore and Smith)
 - Number: **+1-214-768-4674**
+- Time: 8PM-8AM. (Unless otherwise announced)
+
+#### Daniel House
+- Number: **+1-214-768-4675**
 - Time: 8PM-8AM. (Unless otherwise announced)
 
 ## UDH Slack
 
-We are back on Slack for all your favorite group chats! To join our slack, please use the QR code below:
+We are back on Slack for all your favorite group chats! To join our slack, please use the QR code below or [**this link**](https://join.slack.com/t/upperdivisionhousing/shared_invite/zt-bq3o5i5e-37Ma_qGvt9PcbF2TXMYrMA):
 
 <img src=slack_qr.png />
 
 
 When you are in the chat, please join the Moore Hall to stay connected and say hi **virtually** to your friends!
+
+## [Fire Safety Regulations](/Residence-Hall-fire-safety.pdf)
+Please head to [here](/Residence-Hall-fire-safety.pdf) to read the fire safety regulation of your respective hall. Keep in mind that Smith and Moore/Daniel do have different regulations because of kitchens.
 
 ## Facilities Issues?
 
