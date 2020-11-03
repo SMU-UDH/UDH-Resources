@@ -10,7 +10,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Survey from Your RAs!!](#survey-from-your-ras)
+- [Bias Incident Report](#bias-incident-report)
+- [Current Events:](#current-events)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
     - [Smith hall](#smith-hall)
@@ -27,9 +28,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Survey from Your RAs!!
+## Bias Incident Report
+If you see something, please say something! For any bias incidents on campus,
+please submit a link through [this link](https://www.smu.edu/StudentAffairs/GetHelp/BiasEducationResponseTeam#:~:text=If%20you%20observe%20or%20experience,and%20Response%20Team%20(BERT).).
 
-Please do take a quick minute and fill out a survey using [this link](https://forms.gle/UEV6CSSmvVDCkqeg9)! Let us know if you have questions!
+## Current Events:
+- **Fall Cooking Festival**: Sign up [here](https://forms.gle/fpoSaURERkrvaa198)
 
 ## Your RAs
 
