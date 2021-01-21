@@ -28,12 +28,29 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Bias Incident Report
-If you see something, please say something! For any bias incidents on campus,
-please submit a link through [this link](https://www.smu.edu/StudentAffairs/GetHelp/BiasEducationResponseTeam#:~:text=If%20you%20observe%20or%20experience,and%20Response%20Team%20(BERT).).
+## Programming Highlights
 
-## Current Events:
-- **Fall Cooking Festival**: Sign up [here](https://forms.gle/fpoSaURERkrvaa198)
+### Welcome-Back Event
+
+There will be a welcome-back event for all residents on Sunday evening, January 23rd. More details to come.
+
+### Drive-in Movie
+
+<img src="https://media.giphy.com/media/3o7qDHay0tAnTzK0us/giphy.gif">
+
+We are excited to host our first-ever **drive-in** movie as UDH signature event!
+
+- Movie: **Crazy Rich Asians**
+- Time: 7PM, February 7th, 2021
+- Location: Commuter U Lot
+
+There will be snacks, friends, moonlight, and love from UDH. Bring your roommates and friends to enjoy an unforgettable, once-in-a-smu-time night!
+
+If you have questions, please feel free to reach out to your RAs.
+
+### UDH Sweatshirts
+
+Wanna look cool on the hilltop? Wanna stay warm in the freezing Dallas winter? Wanna show the commons what it means to live in UDH? You have found the right place! We have UDH sweatshirts! If you have not received your very own, please reach out to your RAs! We will also host events throughout the semester to hand them out. Stay warm! 
 
 ## Your RAs
 
