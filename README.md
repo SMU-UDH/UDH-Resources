@@ -10,8 +10,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Bias Incident Report](#bias-incident-report)
-- [Current Events:](#current-events)
+- [Programming Highlights](#programming-highlights)
+  - [Welcome-Back Event](#welcome-back-event)
+  - [Drive-in Movie](#drive-in-movie)
+  - [UDH Sweatshirts](#udh-sweatshirts)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
     - [Smith hall](#smith-hall)
@@ -36,7 +38,7 @@ There will be a welcome-back event for all residents on Sunday evening, January 
 
 ### Drive-in Movie
 
-<img src="https://media.giphy.com/media/3o7qDHay0tAnTzK0us/giphy.gif">
+<img src=https://media.giphy.com/media/3o7qDHay0tAnTzK0us/giphy.gif />
 
 We are excited to host our first-ever **drive-in** movie as UDH signature event!
 
