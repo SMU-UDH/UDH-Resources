@@ -38,7 +38,7 @@ There will be a welcome-back event for all residents on Sunday evening, January 
 
 ### Drive-in Movie
 
-<img src=https://media.giphy.com/media/3o7qDHay0tAnTzK0us/giphy.gif />
+<img src=https://media.giphy.com/media/13ZVRnWnmSMaRy/giphy.gif />
 
 We are excited to host our first-ever **drive-in** movie as UDH signature event!
 
