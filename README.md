@@ -34,7 +34,9 @@
 
 ### Welcome-Back Event
 
-There will be a welcome-back event for all residents on Sunday evening, January 23rd. More details to come.
+Good News!! Ice cream is on the way!!
+
+Look out for our ice cream cart on **Sunday (January 23) evening at 7PM** for some ice cream and UDH sweatshirts!
 
 ### Drive-in Movie
 
