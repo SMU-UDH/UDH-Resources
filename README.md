@@ -11,7 +11,6 @@
 
 
 - [Programming Highlights](#programming-highlights)
-  - [Welcome-Back Event](#welcome-back-event)
   - [Drive-in Movie](#drive-in-movie)
   - [UDH Sweatshirts](#udh-sweatshirts)
 - [Your RAs](#your-ras)
@@ -31,12 +30,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Programming Highlights
-
-### Welcome-Back Event
-
-Good News!! Ice cream is on the way!!
-
-Look out for our ice cream cart on **Sunday (January 23) evening at 7PM** for some ice cream and UDH sweatshirts!
 
 ### Drive-in Movie
 
