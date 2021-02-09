@@ -11,7 +11,6 @@
 
 
 - [Programming Highlights](#programming-highlights)
-  - [Drive-in Movie](#drive-in-movie)
   - [UDH Sweatshirts](#udh-sweatshirts)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
@@ -30,20 +29,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Programming Highlights
-
-### Drive-in Movie
-
-<img src=https://media.giphy.com/media/13ZVRnWnmSMaRy/giphy.gif />
-
-We are excited to host our first-ever **drive-in** movie as UDH signature event!
-
-- Movie: **Crazy Rich Asians**
-- Time: 7PM, February 7th, 2021
-- Location: Commuter U Lot
-
-There will be snacks, friends, moonlight, and love from UDH. Bring your roommates and friends to enjoy an unforgettable, once-in-a-smu-time night!
-
-If you have questions, please feel free to reach out to your RAs.
 
 ### UDH Sweatshirts
 
