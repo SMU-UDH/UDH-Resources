@@ -30,6 +30,18 @@
 
 ## Programming Highlights
 
+### De-stress with Steph
+
+This is the time of the year when quizzes, tests, and assignments are piling up like Texas snow! No matter whether you are stressed or just need some time off, Steph's event is perfect for you! Stop by Moore's 1st Floor Lounge **on Wednesday, February 17th, between 7 and 8 PM** to relax and get yourself some treats!
+
+### Living Off Campus: Finding a Roof
+
+Are you interested in learning more about life off campus? Will you be looking for an apartment for the first time? Don't worry! This panel discussion is for you! Featuring your fellow SMU students, this panel will talk about tips and tricks in the apartment-finding process!
+
+**This event will occur at 7PM on March 4 with both virtual and in-person options! Location TBD!**
+
+To submit your question ahead of time to ensure that they will be answered, please use [this link](https://forms.gle/qDAutUAmYAJ1Ahbd9)!
+
 ### UDH Sweatshirts
 
 Wanna look cool on the hilltop? Wanna stay warm in the freezing Dallas winter? Wanna show the commons what it means to live in UDH? You have found the right place! We have UDH sweatshirts! If you have not received your very own, please reach out to your RAs! We will also host events throughout the semester to hand them out. Stay warm! 
