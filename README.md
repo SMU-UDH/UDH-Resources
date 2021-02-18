@@ -10,7 +10,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Facilities Issues and Emergency Support](#facilities-issues-and-emergency-support)
 - [Programming Highlights](#programming-highlights)
+  - [Living Off Campus: Finding a Roof](#living-off-campus-finding-a-roof)
   - [UDH Sweatshirts](#udh-sweatshirts)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
@@ -21,18 +23,28 @@
     - [Daniel House](#daniel-house-1)
 - [UDH Slack](#udh-slack)
 - [Fire Safety Regulations](#fire-safety-regulations)
-- [Facilities Issues?](#facilities-issues)
 - [Moore Hall Protocols](#moore-hall-protocols)
 - [Useful Links:](#useful-links)
 - [Got questions?](#got-questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Facilities Issues and Emergency Support
+
+**During these unprescendent times, please watch out for and report facilities issues immediately!** 
+
+If there is a facilities emergency (e.g. power outage, leaking water), please call the RA on-call +214-768-4674 and facilities emergency dispatch +1-214-768-7000. If it is an emergency that warrants the response of the fire department or SMUPD, such as fire, smoke, and need for ambulance, please call +1-214-768-3333 **IMMEDIATELY**.
+
+If it is not an emergency, please go to [this website](https://smu-isd.webtma.net/request_form_single.html) for room temperature issues and [this website](https://smu-isd.webtma.net/request_form_hot.html) for other requests.
+
+**24-hour RA On-call is in effect from now until 8AM, Feb 22.** If you have noticed something or if there is anything that you want to talk about personally, please call! We are here to help!
+
+- Hillcrest RA On-call: 214-768-4674
+- Airline RA On-call: 214-768-4675
+- SMU PD: 214-768-3333
+- Facilities Emergency: 214-768-7000
+
 ## Programming Highlights
-
-### De-stress with Steph
-
-This is the time of the year when quizzes, tests, and assignments are piling up like Texas snow! No matter whether you are stressed or just need some time off, Steph's event is perfect for you! Stop by Moore's 1st Floor Lounge **on Wednesday, February 17th, between 7 and 8 PM** to relax and get yourself some treats!
 
 ### Living Off Campus: Finding a Roof
 
@@ -82,12 +94,6 @@ When you are in the chat, please join the Moore Hall to stay connected and say h
 
 ## [Fire Safety Regulations](/Residence-Hall-fire-safety.pdf)
 Please head to [here](/Residence-Hall-fire-safety.pdf) to read the fire safety regulation of your respective hall. Keep in mind that Smith and Moore/Daniel do have different regulations because of kitchens.
-
-## Facilities Issues?
-
-If it is not an emergency, please go to [this website](https://smu-isd.webtma.net/request_form_single.html) for room temperature issues and [this website](https://smu-isd.webtma.net/request_form_hot.html) for other requests.
-
-If there is an facilities emergency (e.g. power outage, leaking water), please call +1-214-768-7000 and let one of the RAs know. If it is an emergency that warrants the response of the fire department or SMUPD, please call +1-214-768-3333 **IMMEDIATELY**.
 
 ## Moore Hall Protocols
 
