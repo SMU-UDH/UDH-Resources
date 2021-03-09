@@ -11,8 +11,7 @@
 
 
 - [Programming Highlights](#programming-highlights)
-  - [Black History Month Celebration](#black-history-month-celebration)
-  - [Living Off Campus: Finding a Roof](#living-off-campus-finding-a-roof)
+  - [Take Care Thursday](#take-care-thursday)
   - [UDH Sweatshirts](#udh-sweatshirts)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
@@ -32,19 +31,8 @@
 
 ## Programming Highlights
 
-### Black History Month Celebration
-
-We will be screening a film to celebrate February as Black History Month!! Come join your RAs on **Saturday at 8PM** and participate in a discussion afterwards to win a cake from the Cake Bar!
-
-There will also be a book club to feature a few relevant books!
-
-### Living Off Campus: Finding a Roof
-
-Are you interested in learning more about life off campus? Will you be looking for an apartment for the first time? Don't worry! This panel discussion is for you! Featuring your fellow SMU students, this panel will talk about tips and tricks in the apartment-finding process!
-
-**This event will occur at 7PM on March 4 with both virtual and in-person options! Location TBD!**
-
-To submit your question ahead of time to ensure that they will be answered, please use [this link](https://forms.gle/qDAutUAmYAJ1Ahbd9)!
+### Take Care Thursday
+Have you ever dreamed of attending a yoga event outdoors with free yoga mat? Do you ever want to be one with nature in the breathtaking Arden Forest? Come to the yoga session on **March 11, 5:15pm-6:15pm** and join RA Tyne for a relexing evening!
 
 ### UDH Sweatshirts
 
