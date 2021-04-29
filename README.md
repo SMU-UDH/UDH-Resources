@@ -11,8 +11,9 @@
 
 
 - [Programming Highlights](#programming-highlights)
-  - [Take Care Thursday](#take-care-thursday)
+  - [Block Out the Stress](#block-out-the-stress)
   - [UDH Sweatshirts](#udh-sweatshirts)
+- [Check Out](#check-out)
 - [Your RAs](#your-ras)
     - [Moore Hall](#moore-hall)
     - [Smith hall](#smith-hall)
