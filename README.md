@@ -31,12 +31,17 @@
 
 ## Programming Highlights
 
-### Take Care Thursday
-Have you ever dreamed of attending a yoga event outdoors with free yoga mat? Do you ever want to be one with nature in the breathtaking Arden Forest? Come to the yoga session on **March 11, 5:15pm-6:15pm** and join RA Tyne for a relexing evening!
+### Block Out the Stress
+
+Be sure to stop by our signature event at North Boulevard from 12-3PM this Saturday (May 1st)! There will be boba, free t-shirt, and care packages along with games, friends, and lots of fun!! Your RAs will be walking with y'all to the event at different times. Hope to see y'all there!
 
 ### UDH Sweatshirts
 
 Wanna look cool on the hilltop? Wanna stay warm in the freezing Dallas winter? Wanna show the commons what it means to live in UDH? You have found the right place! We have UDH sweatshirts! If you have not received your very own, please reach out to your RAs! We will also host events throughout the semester to hand them out. Stay warm! 
+
+## Check Out
+
+Please see the bulletin boards on your floor or speak with your RA about move-out information! Make sure to sign up for a checkout appointment and follow all the guidelines!
 
 ## Your RAs
 
